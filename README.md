@@ -1,5 +1,4 @@
 # TODOCTIVITY
-# TODOCTIVITY
 
 ![TODOCTIVITY Screenshot](https://github.com/Dhanush-777x/todoctivity/blob/main/Assets/todoctivity.png)
 
